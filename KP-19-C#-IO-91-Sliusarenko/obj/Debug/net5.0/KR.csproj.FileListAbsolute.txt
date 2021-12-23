@@ -1,0 +1,16 @@
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\KR\KR\bin\Debug\net5.0\KR.exe
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\KR\KR\bin\Debug\net5.0\KR.deps.json
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\KR\KR\bin\Debug\net5.0\KR.runtimeconfig.json
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\KR\KR\bin\Debug\net5.0\KR.runtimeconfig.dev.json
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\KR\KR\bin\Debug\net5.0\KR.dll
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\KR\KR\bin\Debug\net5.0\ref\KR.dll
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\KR\KR\bin\Debug\net5.0\KR.pdb
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\KR\KR\obj\Debug\net5.0\KR.csprojAssemblyReference.cache
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\KR\KR\obj\Debug\net5.0\KR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\KR\KR\obj\Debug\net5.0\KR.AssemblyInfoInputs.cache
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\KR\KR\obj\Debug\net5.0\KR.AssemblyInfo.cs
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\KR\KR\obj\Debug\net5.0\KR.csproj.CoreCompileInputs.cache
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\KR\KR\obj\Debug\net5.0\KR.dll
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\KR\KR\obj\Debug\net5.0\ref\KR.dll
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\KR\KR\obj\Debug\net5.0\KR.pdb
+C:\Users\andri\IdeaProjects\ParallelProgramming\Lab3\KR\KR\obj\Debug\net5.0\KR.genruntimeconfig.cache
