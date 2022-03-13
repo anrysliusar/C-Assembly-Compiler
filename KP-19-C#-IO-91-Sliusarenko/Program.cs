@@ -7,6 +7,7 @@ namespace KR
     {
         private static void Main(string[] args)
         {
+            // *Don't even try to run it*
             const string filenameIncome = "KP-19-C#-IO-91-Sliusarenko.c";
             const string filenameOutcome = "KP-19-C#-IO-91-Sliusarenko.asm";
 
